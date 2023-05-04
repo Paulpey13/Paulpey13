@@ -17,7 +17,7 @@
     <br>
     📧 <a href="mailto:paul.peyssard@gmail.com">paul.peyssard@gmail.com</a> 📧
     <br>
-    Also, please check out my <a href="https://www.fiverr.com/paulpeyssard">Fiverr profile</a> for more information on my services. Thank you!
+    Also, please check out my <a href="https://fr.fiverr.com/cokinuts?up_rollout=true">Fiverr profile</a> for more information on my services. Thank you!
   </samp>
   <br>
   <br>
