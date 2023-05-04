@@ -1,18 +1,15 @@
 <h1 align="center"> 👋 </h1>
 
 <h4 align="center">
-  <samp>
-    [Open for Hiring]
-  </samp>
 </h4>
 <hr>
 <!-- ---------------------------------- -->
 <h2 align="center">
-  🌐 Professional website 🌐
+  🌐 Contact 🌐
 </h2>
 <p align="center">
   <samp>
-    <a href="https://jorislimonier.github.io/">https://jorislimonier.github.io/</a>
+    <a href="https://www.linkedin.com/in/paul-peyssard-a7b460229/"Linkedin</a>
   </samp>
   <hr>
   <!-- ---------------------------------- -->
