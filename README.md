@@ -16,6 +16,8 @@
     As a result, you have the guarantee to reach your goals and send your business to the next level.
     <br>
     📧 <a href="mailto:paul.peyssard@gmail.com">paul.peyssard@gmail.com</a> 📧
+    <br>
+    Also, please check out my <a href="https://www.fiverr.com/paulpeyssard">Fiverr profile</a> for more information on my services. Thank you!
   </samp>
   <br>
   <br>
