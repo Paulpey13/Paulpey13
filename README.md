@@ -19,7 +19,6 @@
   </samp>
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=jorislimonier&style=for-the-badge&logo=github">
   <br>
   <br>
 </p>
