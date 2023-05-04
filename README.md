@@ -22,14 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=jorislimonier&style=for-the-badge&logo=github">
   <br>
   <br>
-  <samp>
-    Time spent coding since May 1st 2021:
-  </samp>
-  <br>
-  <a href="https://wakatime.com/@34351164-48d1-4b56-93eb-d9857f8a14f2">
-    <img
-      src="https://wakatime.com/badge/user/34351164-48d1-4b56-93eb-d9857f8a14f2.svg?style=for-the-badge&label=time+coded+since+2021/05/01" />
-  </a>
 </p>
 
 <hr>
