@@ -2,31 +2,20 @@
 
 <h4 align="center">
 </h4>
-<hr>
-<!-- ---------------------------------- -->
-<h2 align="center">
-  🌐 Contact 🌐
-</h2>
-<p align="center">
-  <samp>
-    <a href="https://www.linkedin.com/in/paul-peyssard-a7b460229/"Linkedin</a>
-  </samp>
-  <hr>
   <!-- ---------------------------------- -->
 <h2 align="center">
   👨‍💻 About me 👨‍💻
 </h2>
 <p align="center">
   <samp>
-    I am a <strong>Mathematician</strong> & <strong>Data Scientist</strong>. Currently working as a
-    <strong>freelancer</strong>, available for hire.
+    Currently a student in MSc Data Science & Artificial Intelligence & in a Data Scientist Internship at Airbus Helicopters, I also work in freelance as a Data Scientist on fiverr.
     <br>
     I will quickly complete your Data Science & Programming tasks.
     My previous customers can testify that I work fast, efficiently and seriously.
     My priority will be to fulfill your needs while taking your feedback into account.
     As a result, you have the guarantee to reach your goals and send your business to the next level.
     <br>
-    📧 <a href="mailto:joris.limonier@gmail.com">joris.limonier@gmail.com</a> 📧
+    📧 <a href="mailto:paul.peyssard@gmail.com">paul.peyssard@gmail.com</a> 📧
   </samp>
   <br>
   <br>
