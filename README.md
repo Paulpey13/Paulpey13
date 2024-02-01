@@ -8,16 +8,11 @@
 </h2>
 <p align="center">
   <samp>
-    Currently a student in MSc Data Science & Artificial Intelligence & in a Data Scientist Internship at Airbus Helicopters, I also work in freelance as a Data Scientist on fiverr.
+    Currently a student in M2 Artificial Intelligence & Machine Learning (M2 IAAA) at Aix-Marseille University & in a Data Scientist Internship at Veracyte working on the tumor diagnosis with images.
     <br>
-    I will quickly complete your Data Science & Programming tasks.
-    My previous customers can testify that I work fast, efficiently and seriously.
-    My priority will be to fulfill your needs while taking your feedback into account.
-    As a result, you have the guarantee to reach your goals and send your business to the next level.
     <br>
     📧 <a href="mailto:paul.peyssard@gmail.com">paul.peyssard@gmail.com</a> 📧
     <br>
-    Also, please check out my <a href="https://fr.fiverr.com/cokinuts?up_rollout=true">Fiverr profile</a> for more information on my services. Thank you!
   </samp>
   <br>
   <br>
