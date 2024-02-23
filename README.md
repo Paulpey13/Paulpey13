@@ -1,6 +1,6 @@
-# Welcome to Paulpey13's GitHub Profile!
+# Welcome to my GitHub Profile!
 
-👋 Hi, I'm Paul Peyssard, a passionate Master 2 student specializing in Artificial Intelligence & Machine Learning at Aix Marseille University - Centrale Marseille. With a keen interest in the intersection of technology and real-world applications, I'm dedicated to exploring the depths of AI to solve complex problems.
+👋 Hi, I'm Paul Peyssard, a passionate Master 2 student specializing in Artificial Intelligence & Machine Learning at Aix Marseille University - Centrale Marseille.
 
 ## 🎓 Academic Background
 - **Master 2 in Artificial Intelligence & Machine Learning** - Focusing on cutting-edge AI research and applications.
@@ -14,9 +14,9 @@
 
 ## 📚 Projects Highlight
 
-- **Veracyte - Data Augmentation projects (Confidential)** - Whole Slide Image Data augmentations using CycleGans
+- **Veracyte - Data Augmentation Projects (In Progress, Confidential)** - Whole Slide Image Data augmentations using CycleGans
 - **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes
-- **Airbus - fuel flow prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
+- **Airbus - Fuel Flow Prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
 - **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Comparaison of Pre-trained transfomers and home-made transformers on POS tagging
 - **[Projet SAM](https://github.com/Paulpey13/Projet_SAM)** - Multi-Modal Turn-To-Speak deep learning model detection using speech, sound and videos (Comparaison of early and late fusion)
 - **[Molecule Generator](https://github.com/Paulpey13/chemical_molecule_generation)** - Molecule generation using constraint programming (COP) in collaborations with chemist (Research Project)
@@ -26,10 +26,7 @@
 - **[Statistics Projects 2022](https://github.com/Paulpey13/Statistics-Projects_2022)** - A series of projects exploring statistical analysis methods.
 
 
-
 ## 🌱 I'm currently learning
-- Advanced Deep Learning Techniques
-- Natural Language Processing
 - Neural Network Optimization
 - BioInformatics and Whole Slide Image processings
 
