@@ -13,7 +13,7 @@
 - **Research project with IBM** - Contributed to improving ML models using IBM's Deep Neural Network, R2N.
 
 ## 📚 Projects Highlight
-- **[Airbus Main Gear Box Anomaly Detection (Confidential)] - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes
+- **[Airbus Main Gear Box Anomaly Detection (Confidential)]** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes
 - **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
 - **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
 - **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
