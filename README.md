@@ -19,6 +19,7 @@
 - **Airbus - fuel flow prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
 - **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Comparaison of Pre-trained transfomers and home-made transformers on POS tagging
 - **[Projet SAM](https://github.com/Paulpey13/Projet_SAM)** - Multi-Modal Turn-To-Speak deep learning model detection using speech, sound and videos (Comparaison of early and late fusion)
+- **[Molecule Generator](https://github.com/Paulpey13/chemical_molecule_generation)** - Molecule generation using constraint programming (COP) in collaborations with chemist (Research Project)
 - **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
 - **[Word2Vec Implementation](https://github.com/Paulpey13/W2V-from-scratch)** - Building the Word2Vec Skip-gram model from scratch for natural language processing tasks.
 - **[Learning Compact Transparent Models using Neuro-Symbolic Methods](https://github.com/Paulpey13/Learning-Compact-Transparent-Models-using-Neuro-Symbolic-Methods)** - Research project aimed at enhancing ML models' efficiency and transparency.
