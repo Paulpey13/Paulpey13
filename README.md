@@ -43,3 +43,8 @@ Thank you for visiting my profile! Feel free to explore my repositories and reac
 
 ![Paulpey13's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulpey13&layout=compact&theme=vue)
 
+
+<!-- Dynamic sections to showcase various stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Paulpey13&theme=dark)
+![Paulpey13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulpey13&show_icons=true&theme=radical)
+By adding these sections, your README will dynamically display your coding activity, including your
