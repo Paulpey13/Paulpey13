@@ -40,7 +40,3 @@
 - Open Source Contribution
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
-
-![Paulpey13's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulpey13&layout=compact&theme=vue&hide=jupyter%20notebook,html)
-
-
