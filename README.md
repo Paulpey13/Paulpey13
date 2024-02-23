@@ -13,17 +13,16 @@
 - **Research project with IBM** - Contributed to improving ML models using IBM's Deep Neural Network, R2N.
 
 ## 📚 Projects Highlight
-- **[Airbus Main Gear Box Anomaly Detection (Confidential)]** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes
-- **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
-- **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
-- **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
-- **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
 
+- **Veracyte - Data Augmentation projects (Confidential)** - Whole Slide Image Data augmentations using CycleGans
+- **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes
+- **Airbus - fuel flow prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
+- **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Comparaison of Pre-trained transfomers and home-made transformers on POS tagging
+- **[Projet SAM](https://github.com/Paulpey13/Projet_SAM)** - Multi-Modal Turn-To-Speak deep learning model detection using speech, sound and videos (Comparaison of early and late fusion)
 - **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
 - **[Word2Vec Implementation](https://github.com/Paulpey13/W2V-from-scratch)** - Building the Word2Vec Skip-gram model from scratch for natural language processing tasks.
 - **[Learning Compact Transparent Models using Neuro-Symbolic Methods](https://github.com/Paulpey13/Learning-Compact-Transparent-Models-using-Neuro-Symbolic-Methods)** - Research project aimed at enhancing ML models' efficiency and transparency.
 - **[Statistics Projects 2022](https://github.com/Paulpey13/Statistics-Projects_2022)** - A series of projects exploring statistical analysis methods.
-- **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Focused on natural language processing and algorithm development.
 
 
 
