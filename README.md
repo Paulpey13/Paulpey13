@@ -14,8 +14,8 @@
 
 ## 📚 Projects Highlight
 
-- **Veracyte - Data Augmentation Projects (In Progress, Confidential)** - Whole Slide Image Data augmentations (Bioinformatics - Deep Learning)
-- **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes
+- **Veracyte - Data Augmentation Projects (In Progress, Confidential)** - Whole Slide Image Data Augmentation & Normalization (Bioinformatics - Deep Learning)
+- **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes (Image anomaly detection)
 - **Airbus - Fuel Flow Prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
 - **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Comparaison of Pre-trained transfomers and home-made transformers on POS tagging
 - **[Projet SAM](https://github.com/Paulpey13/Projet_SAM)** - Multi-Modal Turn-To-Speak deep learning model detection using speech, sound and videos (Comparaison of early and late fusion)
