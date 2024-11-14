@@ -4,7 +4,7 @@
 
 
 ## 💼 Professional Experience
-- **Data Scientist at Neuro-Sys** - Iamge analysis automation and deep learning for Cancer deseases
+- **Data Scientist at Neuro-Sys** - Image analysis automation and deep learning for Cancer deseases
 - **Internship at Veracyte** - Applied my AI skills in a real-world healthcare setting, practicing cancer diagnosis and processing Whole Slide Images
 - **Internship at Airbus Helicopters** - Different applications, and models such as Anomaly Image Detection on helicopter's main gear boxes
 - **Research project with IBM** - Contributed to improving ML models using IBM's Deep Neural Network, R2N.
