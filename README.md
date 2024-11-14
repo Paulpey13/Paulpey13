@@ -1,16 +1,19 @@
 # Welcome to my GitHub Profile!
 
-👋 Hi, I'm Paul Peyssard, a passionate Master 2 student specializing in Artificial Intelligence & Machine Learning at Aix Marseille University - Centrale Marseille.
+👋 Hi, I'm Paul Peyssard, a passionate data Scientist working on 
+
+
+## 💼 Professional Experience
+- **Data Scientist at Neuro-Sys** - Iamge analysis automation and deep learning for Cancer deseases
+- **Internship at Veracyte** - Applied my AI skills in a real-world healthcare setting, practicing cancer diagnosis and processing Whole Slide Images
+- **Internship at Airbus Helicopters** - Different applications, and models such as Anomaly Image Detection on helicopter's main gear boxes
+- **Research project with IBM** - Contributed to improving ML models using IBM's Deep Neural Network, R2N.
 
 ## 🎓 Academic Background
 - **Master 2 in Artificial Intelligence & Machine Learning (Centrale Méditerannée - Aix-Marseille University)** - Focusing on cutting-edge AI research and applications.
 - **International Master 1 in Artificial Intelligence & Data Science (Côte d'Azur University)** - Focusing in the basis of deep learning & statistics
 - **B.Sc. in Computer Science (Aix-Marseille University)** - Where my journey into the world of coding and algorithms began.
 
-## 💼 Professional Experience
-- **Internship at Veracyte** - Applied my AI skills in a real-world healthcare setting, practicing cancer diagnosis and processing Whole Slide Images
-- **Internship at Airbus Helicopters** - Different applications, and models such as Anomaly Image Detection on helicopter's main gear boxes
-- **Research project with IBM** - Contributed to improving ML models using IBM's Deep Neural Network, R2N.
 
 ## 📚 Projects Highlight
 
