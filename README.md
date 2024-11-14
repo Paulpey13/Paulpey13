@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-👋 Hi, I'm Paul Peyssard, a passionate data Scientist working on 
+👋 Hi, I'm Paul Peyssard, a passionate data Scientist working on cancer deases
 
 
 ## 💼 Professional Experience
