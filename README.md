@@ -34,7 +34,8 @@
 
 ## 📚 Projects Highlight
 
-- **Veracyte - Data Augmentation Projects (In Progress, Confidential)** - Whole Slide Image Data Augmentation & Normalization (Bioinformatics - Deep Learning)
+- **Neuro-Sys - Bran cell anomaly detection (Confidential)** - Brai Whole Slide Image Segmentation using different models (Stardist, Detectron...)
+- **Veracyte - Data Augmentation Projects (Confidential)** - Whole Slide Image Data Augmentation & Normalization (Bioinformatics - Deep Learning)
 - **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes (Image anomaly detection)
 - **Airbus - Fuel Flow Prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
 - **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Comparaison of Pre-trained transfomers and home-made transformers on POS tagging
