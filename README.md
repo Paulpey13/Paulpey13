@@ -60,10 +60,10 @@
 - **Email:** paul.peyssard@gmail.com
 
 ## ⭐ My interests include:
-- AI in Healthcare
-- AI in Finance
+- AI in Video Games, Healthcare & Finance
 - Ethical AI
 - Open Source Contribution
+- Sports & Cooking
   
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
