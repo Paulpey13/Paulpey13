@@ -34,7 +34,7 @@
 
 ## 📚 Projects Highlight
 
-- **[Personal Freelance Website](https://github.com/Paulpey13/paul-peyssard-ds)** – Custom freelance portfolio website built with Next.js and Tailwind CSS, featuring responsive design and dynamic content.
+- **[Personal Freelance Website](https://paul-peyssard-ds.vercel.app/)** – Custom freelance portfolio website built with Next.js and Tailwind CSS, featuring responsive design and dynamic content.
 - **Neuro-Sys - LLM (Confidential)** - Deployed a Mixtral-based RAG pipeline using LangChain on AWS infrastructure to provide secure and contextual access to internal data supporting both biologists and financial department
 - **Neuro-Sys - Bran cell anomaly detection (Confidential)** - Brain Whole Slide Image Segmentation using different models (Stardist, Detectron...)
 - **Neuro-Sys - Web application (Confidential)** - Developed different web applications to automate image and file analysis using Python, Flask, and Waitress.
