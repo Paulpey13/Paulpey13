@@ -4,7 +4,7 @@
 
 
 ## 💼 Professional Experience
-- **Data Scientist at Neuro-Sys** - Image analysis automation and deep learning for Cancer deseases
+- **Data Scientist at Neuro-Sys** - Image analysis automation and deep learning for Cancer deseases & LLM
 - **Internship at Veracyte** - Applied my AI skills in a real-world healthcare setting, practicing cancer diagnosis and processing Whole Slide Images
 - **Internship at Airbus Helicopters** - Different applications, and models such as Anomaly Image Detection on helicopter's main gear boxes
 - **Research project with IBM** - Contributed to improving ML models using IBM's Deep Neural Network, R2N.
@@ -34,7 +34,10 @@
 
 ## 📚 Projects Highlight
 
-- **Neuro-Sys - Bran cell anomaly detection (Confidential)** - Brai Whole Slide Image Segmentation using different models (Stardist, Detectron...)
+- **[Personal Freelance Website](https://github.com/Paulpey13/paul-peyssard-ds)** – Custom freelance portfolio website built with Next.js and Tailwind CSS, featuring responsive design and dynamic content.
+- **Neuro-Sys - LLM (Confidential)** - Deployed a Mixtral-based RAG pipeline using LangChain on AWS infrastructure to provide secure and contextual access to internal data supporting both biologists and financial department
+- **Neuro-Sys - Bran cell anomaly detection (Confidential)** - Brain Whole Slide Image Segmentation using different models (Stardist, Detectron...)
+- **Neuro-Sys - Web application (Confidential)** - Developed different web applications to automate image and file analysis using Python, Flask, and Waitress.
 - **Veracyte - Data Augmentation Projects (Confidential)** - Whole Slide Image Data Augmentation & Normalization (Bioinformatics - Deep Learning)
 - **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes (Image anomaly detection)
 - **Airbus - Fuel Flow Prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
