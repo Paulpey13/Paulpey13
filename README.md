@@ -14,6 +14,23 @@
 - **International Master 1 in Artificial Intelligence & Data Science (Côte d'Azur University)** - Focusing in the basis of deep learning & statistics
 - **B.Sc. in Computer Science (Aix-Marseille University)** - Where my journey into the world of coding and algorithms began.
 
+## 📚 Projects Highlight
+
+- **[Personal Freelance Website](https://paul-peyssard-ds.vercel.app/)** – Custom freelance portfolio website built with Next.js and Tailwind CSS, featuring responsive design and dynamic content.
+- **Neuro-Sys - LLM (Confidential)** - Deployed a Mixtral-based RAG pipeline using LangChain on AWS infrastructure to provide secure and contextual access to internal data supporting both biologists and financial department
+- **Neuro-Sys - Bran cell anomaly detection (Confidential)** - Brain Whole Slide Image Segmentation using different models (Stardist, Detectron...)
+- **Neuro-Sys - Web application (Confidential)** - Developed different web applications to automate image and file analysis using Python, Flask, and Waitress.
+- **Veracyte - Data Augmentation Projects (Confidential)** - Whole Slide Image Data Augmentation & Normalization (Bioinformatics - Deep Learning)
+- **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes (Image anomaly detection)
+- **Airbus - Fuel Flow Prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
+- **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Comparaison of Pre-trained transfomers and home-made transformers on POS tagging
+- **[Projet SAM](https://github.com/Paulpey13/Projet_SAM)** - Multi-Modal Turn-To-Speak deep learning model detection using speech, sound and videos (Comparaison of early and late fusion)
+- **[Molecule Generator](https://github.com/Paulpey13/chemical_molecule_generation)** - Molecule generation using constraint programming (COP) in collaborations with chemist (Research Project)
+- **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
+- **[Word2Vec Implementation](https://github.com/Paulpey13/W2V-from-scratch)** - Building the Word2Vec Skip-gram model from scratch for natural language processing tasks.
+- **[Learning Compact Transparent Models using Neuro-Symbolic Methods](https://github.com/Paulpey13/Learning-Compact-Transparent-Models-using-Neuro-Symbolic-Methods)** - Research project aimed at enhancing ML models' efficiency and transparency.
+- **[Statistics Projects 2022](https://github.com/Paulpey13/Statistics-Projects_2022)** - A series of projects exploring statistical analysis methods.
+
 ## 🛠️ Tech Stack
 
 ### 🧠 Artificial Intelligence
@@ -60,26 +77,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%230080FF.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%2300CED1.svg?style=for-the-badge&logoColor=white)
-
-
-
-## 📚 Projects Highlight
-
-- **[Personal Freelance Website](https://paul-peyssard-ds.vercel.app/)** – Custom freelance portfolio website built with Next.js and Tailwind CSS, featuring responsive design and dynamic content.
-- **Neuro-Sys - LLM (Confidential)** - Deployed a Mixtral-based RAG pipeline using LangChain on AWS infrastructure to provide secure and contextual access to internal data supporting both biologists and financial department
-- **Neuro-Sys - Bran cell anomaly detection (Confidential)** - Brain Whole Slide Image Segmentation using different models (Stardist, Detectron...)
-- **Neuro-Sys - Web application (Confidential)** - Developed different web applications to automate image and file analysis using Python, Flask, and Waitress.
-- **Veracyte - Data Augmentation Projects (Confidential)** - Whole Slide Image Data Augmentation & Normalization (Bioinformatics - Deep Learning)
-- **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes (Image anomaly detection)
-- **Airbus - Fuel Flow Prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
-- **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Comparaison of Pre-trained transfomers and home-made transformers on POS tagging
-- **[Projet SAM](https://github.com/Paulpey13/Projet_SAM)** - Multi-Modal Turn-To-Speak deep learning model detection using speech, sound and videos (Comparaison of early and late fusion)
-- **[Molecule Generator](https://github.com/Paulpey13/chemical_molecule_generation)** - Molecule generation using constraint programming (COP) in collaborations with chemist (Research Project)
-- **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
-- **[Word2Vec Implementation](https://github.com/Paulpey13/W2V-from-scratch)** - Building the Word2Vec Skip-gram model from scratch for natural language processing tasks.
-- **[Learning Compact Transparent Models using Neuro-Symbolic Methods](https://github.com/Paulpey13/Learning-Compact-Transparent-Models-using-Neuro-Symbolic-Methods)** - Research project aimed at enhancing ML models' efficiency and transparency.
-- **[Statistics Projects 2022](https://github.com/Paulpey13/Statistics-Projects_2022)** - A series of projects exploring statistical analysis methods.
-
 
 ## 🌱 I'm currently learning
 - Neural Network Optimization
