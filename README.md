@@ -11,8 +11,8 @@
 
 ## 🎓 Academic Background
 - **Master 2 in Artificial Intelligence & Machine Learning (Centrale Méditerannée - Aix-Marseille University)** - Focusing on cutting-edge AI research and applications.
-- **International Master 1 in Artificial Intelligence & Data Science (Côte d'Azur University)** - Focusing in the basis of deep learning & statistics
-- **B.Sc. in Computer Science (Aix-Marseille University)** - Where my journey into the world of coding and algorithms began.
+- **International Master 1 in Artificial Intelligence & Data Science (Côte d'Azur University)** - Focusing in the basis of Machine learning, Deep learning & statistics
+- **B.Sc. in Computer Science (Aix-Marseille University)** - Clean code, algorithms, databases and different languages.
 
 ## 📚 Projects Highlight
 
