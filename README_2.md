@@ -1,67 +1,18 @@
-# Welcome to my GitHub Profile!
 
-👋 Hi, I'm Paul Peyssard, a passionate Machine Learning Engineer & Data Scientist working on cancer & brain deases 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paul-peyssard-machine-leanring-engineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paul.peyssard@gmail.com) 
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Paulpey13&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Paulpey13&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulpey13&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 💼 Professional Experience
-- **Data Scientist at Neuro-Sys** - Image analysis automation and deep learning for Brain deseases (Computer vision) & LLM
-- **Internship at Veracyte** - Applied my AI skills in a real-world healthcare setting, practicing cancer diagnosis and processing Whole Slide Images
-- **Internship at Airbus Helicopters** - Different applications, and models such as Anomaly Image Detection on helicopter's main gear boxes
-- **Research project with IBM** - Contributed to improving ML models using IBM's Deep Neural Network, R2N.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Paulpey13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎓 Academic Background
-- **Master 2 in Artificial Intelligence & Machine Learning (Centrale Méditerannée - Aix-Marseille University)** - Focusing on cutting-edge AI research and applications.
-- **International Master 1 in Artificial Intelligence & Data Science (Côte d'Azur University)** - Focusing in the basis of Machine learning, Deep learning & statistics
-- **B.Sc. in Computer Science (Aix-Marseille University)** - Clean code, algorithms, databases and different languages.
+---
+[![](https://visitcount.itsvg.in/api?id=Paulpey13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Projects Highlight
-
-- **[Personal Freelance Website](https://paul-peyssard-ds.vercel.app/)** – Custom freelance portfolio website built with Next.js and Tailwind CSS, featuring responsive design and dynamic content.
-- **Neuro-Sys - LLM (Confidential)** - Deployed a Mixtral-based RAG pipeline using LangChain on AWS infrastructure to provide secure and contextual access to internal data supporting both biologists and financial department
-- **Neuro-Sys - Bran cell anomaly detection (Confidential)** - Brain Whole Slide Image Segmentation using different models (Stardist, Detectron...)
-- **Neuro-Sys - Web application (Confidential)** - Developed different web applications to automate image and file analysis using Python, Flask, and Waitress.
-- **Veracyte - Data Augmentation Projects (Confidential)** - Whole Slide Image Data Augmentation & Normalization (Bioinformatics - Deep Learning)
-- **Airbus - Main Gear Box Anomaly Detection (Confidential)** - Detection of different anomaly (Fretting, corrosion...) on helicopters main gear boxes (Image anomaly detection)
-- **Airbus - Fuel Flow Prediction (Confidential)** - Prediction of fuel flow consumption on helicopter's takeoff
-- **[Projet PSTALN](https://github.com/Paulpey13/Projet_PSTALN)** - Comparaison of Pre-trained transfomers and home-made transformers on POS tagging
-- **[Projet SAM](https://github.com/Paulpey13/Projet_SAM)** - Multi-Modal Turn-To-Speak deep learning model detection using speech, sound and videos (Comparaison of early and late fusion)
-- **[Molecule Generator](https://github.com/Paulpey13/chemical_molecule_generation)** - Molecule generation using constraint programming (COP) in collaborations with chemist (Research Project)
-- **[Pet Adoption Prediction](https://github.com/Paulpey13/Pet-adoption-prediction---Machine-Learning)** - Utilizing ML algorithms to predict pet adoption rates.
-- **[Word2Vec Implementation](https://github.com/Paulpey13/W2V-from-scratch)** - Building the Word2Vec Skip-gram model from scratch for natural language processing tasks.
-- **[Learning Compact Transparent Models using Neuro-Symbolic Methods](https://github.com/Paulpey13/Learning-Compact-Transparent-Models-using-Neuro-Symbolic-Methods)** - Research project aimed at enhancing ML models' efficiency and transparency.
-- **[Statistics Projects 2022](https://github.com/Paulpey13/Statistics-Projects_2022)** - A series of projects exploring statistical analysis methods.
-
-## Tech Stack 👩‍💻
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Waitress](https://img.shields.io/badge/waitress-%23FF9900.svg?style=for-the-badge&logo=waitress&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23007396.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-## 🌱 I'm currently learning
-- Neural Network Optimization
-- BioInformatics and Whole Slide Image processings
-- Finance Optimization & Fraud Detection using Deep Learning
-
-## 📫 How to reach me:
-- **LinkedIn:** [Paul Peyssard]([https://www.linkedin.com/in/paul-peyssard-a7b460229](https://www.linkedin.com/in/paul-peyssard-machine-leanring-engineer/))
-- **Email:** paul.peyssard@gmail.com
-
-## ⭐ My interests include:
-- AI in Video Games, Healthcare & Finance
-- Ethical AI
-- Open Source Contribution
-- Sports & Cooking
-  
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
