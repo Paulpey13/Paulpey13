@@ -8,7 +8,7 @@ Currently building image analysis automation and RAG pipelines. Also do freelanc
 - **Neuro-Sys** - brain Whole Slide Image segmentation (Stardist, Detectron) + Mixtral/LangChain RAG pipeline on AWS
 - **Veracyte** - WSI augmentation & normalization for cancer diagnosis
 - **Airbus Helicopters** - anomaly detection on gearboxes, fuel flow prediction
-- **IBM** - neuro-symbolic ML research (R2N)
+- **IBM** - Case study on neuro-symbolic ML research (R2N)
 - **Freelance** - AI, ML, Agents & Web projects
 
 ### Some public stuff
