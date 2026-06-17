@@ -5,7 +5,7 @@ Head of Data at Neuro-Sys. I work mostly on brain diseases, computer vision, dee
 Currently building image analysis automation and RAG pipelines. Also do freelance on the side, and mess around with video game AI and bots for fun.
 
 ### Where I've worked
-- **Neuro-Sys** - brain Whole Slide Image segmentation (Stardist, Detectron) + Mixtral/LangChain RAG pipeline on AWS
+- **Neuro-Sys** - brain Whole Slide Image segmentation (Stardist, Detectron) + Mistral/LangChain RAG pipelines
 - **Veracyte** - WSI augmentation & normalization for cancer diagnosis
 - **Airbus Helicopters** - anomaly detection on gearboxes, fuel flow prediction
 - **IBM** - Case study on neuro-symbolic ML research (R2N)
