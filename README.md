@@ -12,6 +12,7 @@ Currently building image analysis automation and RAG pipelines. Also do freelanc
 - **Freelance** - AI, ML, Agents & Web projects
 
 ### Some public stuff
+- [Labguru MCP Server](https://github.com/Paulpey13/labguru_MCP_server) 
 - [Word2Vec from scratch](https://github.com/Paulpey13/W2V-from-scratch) - Skip-gram by hand
 - [Projet SAM](https://github.com/Paulpey13/Projet_SAM) - multimodal turn-to-speak detection (early vs late fusion)
 - [Molecule Generator](https://github.com/Paulpey13/chemical_molecule_generation) - molecule generation via constraint programming
