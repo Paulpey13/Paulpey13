@@ -20,4 +20,4 @@ Currently building image analysis automation and RAG pipelines. Also do freelanc
 - [Portfolio](https://paul-peyssard-ds.vercel.app/) - Next.js / Tailwind
 
 ### Reach me
-[LinkedIn](https://www.linkedin.com/in/paul-peyssard-machine-leanring-engineer/) · paul.peyssard@gmail.com
+[LinkedIn](https://www.linkedin.com/in/paul-peyssard-machine-leanring-engineer/) · paul.peyssard@gmail.com · https://paul.peyssard.fr/
